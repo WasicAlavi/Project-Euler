@@ -8,4 +8,4 @@ for(i=3;i<35;i++){
    sum+=b;
 } 
 }
-console.log(sum)
+console.log(sum);
