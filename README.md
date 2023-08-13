@@ -14,7 +14,7 @@ $$1, 2, 3, 5, 8, 13, 21, 34, 55, 89, \dots$$</p>
 
 Answer : Project Euler-02.js
 
-### 3.
+### 6.
 <p>The sum of the squares of the first ten natural numbers is,</p>
 1^2 + 2^2 + ... + 10^2 = 385.$$
 <p>The square of the sum of the first ten natural numbers is,</p>
@@ -22,4 +22,4 @@ Answer : Project Euler-02.js
 <p>Hence the difference between the sum of the squares of the first ten natural numbers and the square of the sum is $3025 - 385 = 2640$.</p>
 <p>Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.</p>
 
-Answer : Project Euler-03.js
+Answer : Project Euler-06.js
